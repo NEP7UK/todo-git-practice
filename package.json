@@ -1,0 +1,24 @@
+{
+  "name": "todo-git-practice",
+  "version": "1.0.0",
+  "description": "A small To-Do app: the front end shows a task list, the back end stores tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEP7UK/todo-git-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NEP7UK/todo-git-practice/issues"
+  },
+  "homepage": "https://github.com/NEP7UK/todo-git-practice#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
